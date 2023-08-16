@@ -1,0 +1,15 @@
+body{
+    background-image: url( indiaflagbg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: auto;
+    background-size: auto;
+    opacity: 2.0;
+    border:darkgreen;
+    border-style:ridge;
+    height: 700;
+    width: 540px;
+    margin-top: 7.5%;
+    margin-left: 30%;
+    border-radius:25px;
+}
